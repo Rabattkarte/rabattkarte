@@ -1,4 +1,4 @@
-### Hi there 👋
+### 📌 Feel free to get in contact with me!
 
 <!--
 **Rabattkarte/rabattkarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
