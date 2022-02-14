@@ -2,8 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nfahldieck/)
 [![Xing](https://img.shields.io/badge/Xing-007575?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Nils_Fahldieck)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/nils-fahldieck/badges)
 [![My website](https://img.shields.io/badge/website-0076d6?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://nils.fahldieck.de)
-[![My badges](https://img.shields.io/badge/Credly-26689A?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.youracclaim.com/users/nils-fahldieck/badges)
 
 ---
 
