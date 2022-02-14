@@ -1,18 +1,19 @@
-### 📌 Feel free to get in contact with me!
+### :phone: Feel free to get in contact with me
 
-<!--
-**Rabattkarte/rabattkarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nfahldieck/)
+[![Xing](https://img.shields.io/badge/Xing-007575?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Nils_Fahldieck)
+[![My website](https://img.shields.io/badge/website-0076d6?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://nils.fahldieck.de)
+[![My badges](https://img.shields.io/badge/Credly-26689A?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.youracclaim.com/users/nils-fahldieck/badges)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :trophy: Please have a look at a selection of my achieved badges
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nfahldieck/) [<img alt="Xing" src="https://img.shields.io/badge/Xing-007575?style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/Nils_Fahldieck) [<img alt="Website" src="https://img.shields.io/badge/website-0076d6?style=for-the-badge&logo=internet-explorer&logoColor=white" />](https://nils.fahldieck.de)
+<!-- # 6 trophies a 141x141 -->
+
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/128x128/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](https://www.credly.com/badges/0e7cee9c-8955-426f-b80b-42b7c689b761)
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/128x128/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/00a873b1-c4b1-4b5d-b4b0-9da4257d646b)
+[![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/128x128/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png)](https://www.credly.com/badges/ecc5c6c7-6756-456c-afe5-8b5b65f14dac)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/128x128/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png)](https://www.credly.com/badges/337e9f61-f74f-43ab-a2c6-5a969211ebb9)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/128x128/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](https://www.credly.com/badges/1231f36f-b2d6-4f38-b11d-9c3db00760af)
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/128x128/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)](https://www.credly.com/badges/f8532188-2e6b-4e23-a9be-8c41b42c6de6)
