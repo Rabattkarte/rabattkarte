@@ -8,6 +8,8 @@
 
 ### :trophy: Please have a look at a selection of my achieved badges
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 <!-- # 6 trophies a 141x141 -->
 
 [![CKA: Certified Kubernetes Administrator](assets/CKA.png)](https://www.credly.com/badges/00a873b1-c4b1-4b5d-b4b0-9da4257d646b/public_url)
