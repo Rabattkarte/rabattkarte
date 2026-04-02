@@ -18,8 +18,10 @@
 [![LFCS: Linux Foundation Certified Systems Administrator](assets/LFCS.png)](https://www.credly.com/badges/4ca898fa-d11b-4960-8619-f679814f7e4c/public_url)
 [![LFCA: Linux Foundation Certified IT Associate](assets/LFCA.png)](https://www.credly.com/badges/eef0fcf1-74ff-40c1-b632-7a200e08487d/public_url)
 
-[![HashiCorp Certified: Terraform Associate](assets/Terraform_Associate.png)](https://www.credly.com/badges/ecc5c6c7-6756-456c-afe5-8b5b65f14dac/public_url)
+[![HashiCorp Certified: Terraform Associate (002)](assets/HCTAO_002.png)](https://www.credly.com/badges/ecc5c6c7-6756-456c-afe5-8b5b65f14dac/public_url)
+[![HashiCorp Certified: Terraform Associate (003)](assets/HCTAO_003.png)](https://www.credly.com/badges/37e8fb06-b1ea-4838-bdc9-538efc94ada8/public_url)
 [![Microsoft Certified: Azure Fundamentals](assets/AZ_Fundamentals.png)](https://www.credly.com/badges/f8532188-2e6b-4e23-a9be-8c41b42c6de6/public_url)
-[![LPIC-1: Linux Professional Institute Certification 1](assets/LPIC-1.png)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000354073/l2t2xwgudp)
 [![AWS Certified Solutions Architect – Associate](assets/AWS_SAA-C01.png)](https://www.credly.com/badges/1231f36f-b2d6-4f38-b11d-9c3db00760af/public_url)
 [![AWS Certified Cloud Practitioner](assets/AWS_CLF-C01.png)](https://www.credly.com/badges/337e9f61-f74f-43ab-a2c6-5a969211ebb9/public_url)
+
+[![LPIC-1: Linux Professional Institute Certification 1](assets/LPIC-1.png)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000354073/l2t2xwgudp)
