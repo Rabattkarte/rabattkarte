@@ -6,7 +6,7 @@
 
 ---
 
-### :trophy: Please have a look at a selection of my achieved badges
+### :trophy: My Badge Wallet
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/7190d94c-f08d-4007-87f9-b92f045b5c9a" title="HashiCorp Certified: Terraform Authoring and Operations Professional"><img src="https://images.credly.com/size/80x80/images/a4c6650b-58c3-4be5-bdb0-4d1f437d4e40/blob" alt="HashiCorp Certified: Terraform Authoring and Operations Professional" width="80" height="80"></a>
@@ -33,18 +33,3 @@
 <a href="https://www.credly.com/badges/337e9f61-f74f-43ab-a2c6-5a969211ebb9" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1231f36f-b2d6-4f38-b11d-9c3db00760af" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
-<!-- # 6 trophies a 141x141 -->
-
-[![CKA: Certified Kubernetes Administrator](assets/CKA.png)](https://www.credly.com/badges/00a873b1-c4b1-4b5d-b4b0-9da4257d646b/public_url)
-[![CKAD: Certified Kubernetes Application Developer](assets/CKAD.png)](https://www.credly.com/badges/0e7cee9c-8955-426f-b80b-42b7c689b761/public_url)
-[![KCNA: Kubernetes and Cloud Native Associate](assets/KCNA.png)](https://www.credly.com/badges/cd70dd6b-b7df-4d24-a3c4-02990dc9e3ec/public_url)
-[![LFCS: Linux Foundation Certified Systems Administrator](assets/LFCS.png)](https://www.credly.com/badges/4ca898fa-d11b-4960-8619-f679814f7e4c/public_url)
-[![LFCA: Linux Foundation Certified IT Associate](assets/LFCA.png)](https://www.credly.com/badges/eef0fcf1-74ff-40c1-b632-7a200e08487d/public_url)
-
-[![HashiCorp Certified: Terraform Associate (002)](assets/HCTAO_002.png)](https://www.credly.com/badges/ecc5c6c7-6756-456c-afe5-8b5b65f14dac/public_url)
-[![HashiCorp Certified: Terraform Associate (003)](assets/HCTAO_003.png)](https://www.credly.com/badges/37e8fb06-b1ea-4838-bdc9-538efc94ada8/public_url)
-[![Microsoft Certified: Azure Fundamentals](assets/AZ_Fundamentals.png)](https://www.credly.com/badges/f8532188-2e6b-4e23-a9be-8c41b42c6de6/public_url)
-[![AWS Certified Solutions Architect – Associate](assets/AWS_SAA-C01.png)](https://www.credly.com/badges/1231f36f-b2d6-4f38-b11d-9c3db00760af/public_url)
-[![AWS Certified Cloud Practitioner](assets/AWS_CLF-C01.png)](https://www.credly.com/badges/337e9f61-f74f-43ab-a2c6-5a969211ebb9/public_url)
-
-[![LPIC-1: Linux Professional Institute Certification 1](assets/LPIC-1.png)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000354073/l2t2xwgudp)
