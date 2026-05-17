@@ -9,6 +9,7 @@
 ### :trophy: My Badge Wallet
 
 <!--START_SECTION:badges-->
+[![HashiCorp Certified: Terraform Associate (004)](https://images.credly.com/size/80x80/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob)](https://www.credly.com/badges/982a5f4b-9e88-4fc7-b323-3554f5932739)
 [![HashiCorp Certified: Terraform Authoring and Operations Professional](https://images.credly.com/size/80x80/images/a4c6650b-58c3-4be5-bdb0-4d1f437d4e40/blob)](https://www.credly.com/badges/7190d94c-f08d-4007-87f9-b92f045b5c9a)
 [![Vault Sales Foundation](https://images.credly.com/size/80x80/images/97fbd9b6-3f4a-4299-acc0-dd0fd1d07c2f/blob)](https://www.credly.com/badges/267051fe-1ca0-4348-9377-a5f1bdfb0f00)
 [![Terraform Sales Foundation](https://images.credly.com/size/80x80/images/b6314df6-3f8c-4304-a62c-93d34a1668a5/Terraform_20Sales_20Foundation.png)](https://www.credly.com/badges/744db7de-749e-4438-b8a0-0b135bd2f87a)
