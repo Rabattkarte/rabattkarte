@@ -9,8 +9,8 @@
 ### :trophy: My Badge Wallet
 
 <!--START_SECTION:badges-->
-[![HashiCorp Certified: Terraform Associate (004)](https://images.credly.com/size/80x80/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob)](https://www.credly.com/badges/982a5f4b-9e88-4fc7-b323-3554f5932739)
-[![HashiCorp Certified: Terraform Authoring and Operations Professional](https://images.credly.com/size/80x80/images/a4c6650b-58c3-4be5-bdb0-4d1f437d4e40/blob)](https://www.credly.com/badges/7190d94c-f08d-4007-87f9-b92f045b5c9a)
+[![HashiCorp Certified: Terraform Associate (004)](https://images.credly.com/size/80x80/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob)](https://www.credly.com/badges/982a5f4b-9e88-4fc7-b323-3554f5932739)
+[![HashiCorp Certified: Terraform Authoring and Operations Advanced](https://images.credly.com/size/80x80/images/439c971f-01d1-4633-aa6c-5570457403d6/blob)](https://www.credly.com/badges/7190d94c-f08d-4007-87f9-b92f045b5c9a)
 [![Vault Sales Foundation](https://images.credly.com/size/80x80/images/97fbd9b6-3f4a-4299-acc0-dd0fd1d07c2f/blob)](https://www.credly.com/badges/267051fe-1ca0-4348-9377-a5f1bdfb0f00)
 [![Terraform Sales Foundation](https://images.credly.com/size/80x80/images/b6314df6-3f8c-4304-a62c-93d34a1668a5/Terraform_20Sales_20Foundation.png)](https://www.credly.com/badges/744db7de-749e-4438-b8a0-0b135bd2f87a)
 [![LFS169: Introduction to GitOps](https://images.credly.com/size/80x80/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](https://www.credly.com/badges/9db16b0f-29b9-4940-bb4a-f4d1fbd84881)
