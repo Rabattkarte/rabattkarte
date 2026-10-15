@@ -9,11 +9,17 @@
 ### :trophy: My Badge Wallet
 
 <!--START_SECTION:badges-->
+[![HashiCorp Certified: Terraform Authoring and Operations Advanced](https://images.credly.com/size/80x80/images/439c971f-01d1-4633-aa6c-5570457403d6/blob)](https://www.credly.com/badges/7190d94c-f08d-4007-87f9-b92f045b5c9a)
+[![HashiCorp Certified: Terraform Associate (004)](https://images.credly.com/size/80x80/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob)](https://www.credly.com/badges/982a5f4b-9e88-4fc7-b323-3554f5932739)
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/00a873b1-c4b1-4b5d-b4b0-9da4257d646b)
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/0e7cee9c-8955-426f-b80b-42b7c689b761)
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/37e8fb06-b1ea-4838-bdc9-538efc94ada8)
+[![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/80x80/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob)](https://www.credly.com/badges/ecc5c6c7-6756-456c-afe5-8b5b65f14dac)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/337e9f61-f74f-43ab-a2c6-5a969211ebb9)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/1231f36f-b2d6-4f38-b11d-9c3db00760af)
 [![Vault Technical Sales Intermediate](https://images.credly.com/size/80x80/images/49292429-4a1c-4b8e-bec1-31938002522f/Vault_20Technical_20Sales_20Intermediate.png)](https://www.credly.com/badges/c5ff3a65-945a-444a-8dd3-48a61c0e377d)
 [![Terraform Practitioner Advanced](https://images.credly.com/size/80x80/images/a1220a3c-2a09-45ce-9c3c-7bcfbaf117ce/Terraform_20Practitioner_20Advanced_20Tech_20Sales.png)](https://www.credly.com/badges/9a14a417-23df-4a49-9043-0eda5b36b7c0)
 [![Terraform Technical Sales Intermediate](https://images.credly.com/size/80x80/images/d2279928-8391-43c1-98d6-ae16ee48f390/Terraform_20Technical_20Sales_20Intermediate.png)](https://www.credly.com/badges/fd33179c-2d66-4f2e-ab58-d403444eddea)
-[![HashiCorp Certified: Terraform Associate (004)](https://images.credly.com/size/80x80/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob)](https://www.credly.com/badges/982a5f4b-9e88-4fc7-b323-3554f5932739)
-[![HashiCorp Certified: Terraform Authoring and Operations Advanced](https://images.credly.com/size/80x80/images/439c971f-01d1-4633-aa6c-5570457403d6/blob)](https://www.credly.com/badges/7190d94c-f08d-4007-87f9-b92f045b5c9a)
 [![Vault Sales Foundation](https://images.credly.com/size/80x80/images/97fbd9b6-3f4a-4299-acc0-dd0fd1d07c2f/blob)](https://www.credly.com/badges/267051fe-1ca0-4348-9377-a5f1bdfb0f00)
 [![Terraform Sales Foundation](https://images.credly.com/size/80x80/images/b6314df6-3f8c-4304-a62c-93d34a1668a5/Terraform_20Sales_20Foundation.png)](https://www.credly.com/badges/744db7de-749e-4438-b8a0-0b135bd2f87a)
 [![LFS169: Introduction to GitOps](https://images.credly.com/size/80x80/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](https://www.credly.com/badges/9db16b0f-29b9-4940-bb4a-f4d1fbd84881)
@@ -28,13 +34,7 @@
 [![Professional Scrum Master™ I (PSM I)](https://images.credly.com/size/80x80/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)](https://www.credly.com/badges/2b28a87f-4bc7-4990-9893-8ebb48da634c)
 [![Professional Scrum Product Owner™ I (PSPO I)](https://images.credly.com/size/80x80/images/591762c5-fae7-49c6-b326-e1756979928d/image.png)](https://www.credly.com/badges/9ad76c9c-1b21-471f-8c13-2631d03de864)
 [![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/80x80/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png)](https://www.credly.com/badges/4ca898fa-d11b-4960-8619-f679814f7e4c)
-[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/37e8fb06-b1ea-4838-bdc9-538efc94ada8)
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/cd70dd6b-b7df-4d24-a3c4-02990dc9e3ec)
 [![LFCA: Linux Foundation Certified IT Associate](https://images.credly.com/size/80x80/images/a2c14e0a-56cb-4990-809a-23b0850c1f96/Training_Badges_LFCA_for_acclaim.png)](https://www.credly.com/badges/eef0fcf1-74ff-40c1-b632-7a200e08487d)
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/0e7cee9c-8955-426f-b80b-42b7c689b761)
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/00a873b1-c4b1-4b5d-b4b0-9da4257d646b)
 [![LPIC-1 Certification](https://images.credly.com/size/80x80/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob)](https://www.credly.com/badges/f0d01bf4-3301-458d-9ed9-64c5f54ea055)
-[![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/80x80/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob)](https://www.credly.com/badges/ecc5c6c7-6756-456c-afe5-8b5b65f14dac)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/337e9f61-f74f-43ab-a2c6-5a969211ebb9)
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/1231f36f-b2d6-4f38-b11d-9c3db00760af)
 <!--END_SECTION:badges-->
