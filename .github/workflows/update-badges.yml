@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:
       - name: Update Badges
-        uses: pemtajo/badge-readme@main
+        uses: Joibel/badge-readme@fix-badge-size  # TODO: back to pemtajo/badge-readme once upstream merges the sizing fix
         with:
           CREDLY_USER: nils-fahldieck # ${{ github.actor }} # Uses your GitHub username
           NUMBER_LAST_BADGES: 0 # Show last 10 badges (0 = all)
